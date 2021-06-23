@@ -1,36 +1,36 @@
-#Yogalaya IOS Application
+# Yogalaya IOS Application
 
-##Purpose 
+## Purpose 
 
 ###  The Purspose Of This App Is To aware  People About Importance Of  yoga  In There Life.
 ### Through This  App They  Can Adapt Yoga In Thhere  Life.
 
-##Ui Elements
+## Ui Elements
 
-####UIButton
-####UILabel
-####UIPage Control
-####UISwitch
-####UITextView
-####UITextField
-####UISlider
-####UIImageView
-####UISegmentControl
-####UIImagePickerControlView
-####UIToolBar
-####UITabBar
-####UIPickerView
-####UIStepper
-####UIDatePicker
+#### UIButton
+#### UILabel
+#### UIPage Control
+#### UISwitch
+#### UITextView
+#### UITextField
+#### UISlider
+#### UIImageView
+#### UISegmentControl
+#### UIImagePickerControlView
+#### UIToolBar
+#### UITabBar
+#### UIPickerView
+#### UIStepper
+#### UIDatePicker
 
-###IMAGES
+### IMAGES
 
 ![Screenshot 2021-06-23 at 1 13 16 PM](https://user-images.githubusercontent.com/85827478/123134500-776c2800-d46e-11eb-85b7-039a6b00fd15.png)
 
 ![Screenshot 2021-06-23 at 1 13 28 PM](https://user-images.githubusercontent.com/85827478/123135260-332d5780-d46f-11eb-9168-5a6b2170db6b.png)
 ### On Click Already Have An Account
 ![Screenshot 2021-06-23 at 10 16 52 PM](https://user-images.githubusercontent.com/85827478/123140049-7d650780-d474-11eb-8300-88230e9cc073.png)
-### On Click Done
+### On Click Logi
 ![Screenshot 2021-06-23 at 10 17 26 PM](https://user-images.githubusercontent.com/85827478/123140113-8eae1400-d474-11eb-8bad-07a44f68ccae.png)
 ### On Click Profile Icon
 ![Screenshot 2021-06-23 at 10 17 41 PM](https://user-images.githubusercontent.com/85827478/123140203-a5546b00-d474-11eb-9785-86cfb094ea3f.png)
